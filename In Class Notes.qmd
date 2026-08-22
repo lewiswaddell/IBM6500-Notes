@@ -1,0 +1,66 @@
+---
+title: "IBM 6500 Customer Insight Methods & Survey Research"
+subtitle: Thursdays, 7PM-9:45PM
+format: html
+editor: visual
+---
+
+# W00 - August 20
+
+[**Syllabus**](https://livecsupomona-my.sharepoint.com/:w:/g/personal/jmjung_cpp_edu/IQC7_y_YvInkTZl4qviX6TGlAXZ7ilHyy73gUCSrqwLICWU?e=lKbgBU)
+
+- [Review CEP MSDM Timeline Website](https://www.cppmsdm.com/capstone_project#sec-project-milestones-and-timelines)
+
+- Review CEP Summer Presentation
+
+  - [Video](https://streaming.cpp.edu/media/MSDM%20Culminating%20Experience%20Project%20Information%20Session%20-%20July%209%2C%202026/1_ytmjgtux)
+
+  - [Slides](https://jaejungca.github.io/CEP-Info-Session/cep_info_session.html#/title-slide)
+
+::: callout-important
+This class covers Ch 1 & 3 of CEP
+:::
+
+- CEP Notion
+
+  - Plan Weekly meetings/checkin with groups
+
+  - Add Timeline Milestones
+
+  - Calendar with deadlines
+
+  - Prepare Agenda for all meetings with faculty
+
+    - Share with faculty advisers prior to meeting
+
+- [Formatting Instructions For Written Report](https://www.cppmsdm.com/cep-content-format-template#sec-abstract)
+
+  - If using Quarto, just copy the code from webpage
+
+- Same number of AOs as number of group members
+
+- Group research via Zotero
+
+  - Invite professors to sync
+
+## Due Dates
+
+### M00-1: Aug 26
+
+- Introduce Yourself
+
+- Secondary Databased Research Preparation
+
+### M00-2: Aug 26
+
+- Quiz
+
+- CH 9 Marketing Research Challenge
+
+### M01: Aug 27
+
+- DS-L01-1-Introduction to R Principle Assignment
+
+- DS-L01-2-Rmd Principle Assignment
+
+- Quiz - Ch01 - Introduction to Marketing Research

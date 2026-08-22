@@ -16,7 +16,7 @@ execute:
 
 # W00 - August 20
 
-[**Syllabus**](https://livecsupomona-my.sharepoint.com/:w:/g/personal/jmjung_cpp_edu/IQC7_y_YvInkTZl4qviX6TGlAXZ7ilHyy73gUCSrqwLICWU?e=lKbgBU)
+**Syllabus Pending**
 
 - [Review CEP MSDM Timeline Website](https://www.cppmsdm.com/capstone_project#sec-project-milestones-and-timelines)
 

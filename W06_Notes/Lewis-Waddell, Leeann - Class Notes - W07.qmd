@@ -35,13 +35,13 @@ format:
 
 - Class Participation
 
-- GitHub publication
+- GitHub publication (two ways)
 
-  1.  index.html
+  1.  terminal - index.html
 
       - latest rendering overrides previous rendering
 
-  2.  file name
+  2.  preview + github repo settings - file name
 
       - benefit - multiple html pages that can be published individually
 

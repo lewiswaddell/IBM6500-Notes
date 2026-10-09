@@ -48,7 +48,3 @@ format:
 - Core Concepts and process
 
 - Assignments this week
-
-# 
-
-# 

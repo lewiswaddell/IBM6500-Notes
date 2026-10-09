@@ -1,0 +1,50 @@
+---
+title: "Class Notes for Week 07"
+author: "Leeann Lewis-Waddell"
+date: today
+format: 
+    html:
+        toc: true
+        toc-depth: 3
+        toc-expand: 1
+        toc-location: right
+        embed-resources: true
+---
+
+# Announcements
+
+- Week - 9
+
+  - 1st presentation (Ch 1, 2, 3)
+
+- Week - 15
+
+  - 2nd presentation (Ch 1, 2, 3)
+
+- Complete IRB + execution of Survey NOW
+
+- Following 1st presentation, focus is data collection and analysis
+
+# Overview of Week 07
+
+- CEP assignments for survey data prior to Week 9
+
+- CEP assignments for GA4 data prior to Week 9
+
+# Week 7 Topics and Assignments
+
+- Class Participation
+
+- GitHub publication (two ways)
+
+  1.  terminal - index.html
+
+      - latest rendering overrides previous rendering
+
+  2.  preview + github repo settings - file name
+
+      - benefit - multiple html pages that can be published individually
+
+- Core Concepts and process
+
+- Assignments this week

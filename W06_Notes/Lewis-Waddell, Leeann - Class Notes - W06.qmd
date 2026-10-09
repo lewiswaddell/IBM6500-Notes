@@ -1,0 +1,68 @@
+---
+title: "Class Notes for Week 06"
+author: "Leeann Lewis-Waddell"
+date: today
+format: 
+    html:
+        toc: true
+        toc-depth: 3
+        toc-expand: 1
+        toc-location: right
+        embed-resources: true
+---
+
+# Announcements
+
+- Google Professional Certification: sign-up completed
+
+  - project management
+
+  - digital marketing & e-commerce
+
+  - Google AI
+
+- portfolio website assignment
+
+  - planning and structure
+
+  - deployment
+
+  - 2-3 presentation + feedback
+
+- CEP Written Report Template
+
+  - **Ch1 Template has been updated**
+
+    - review
+
+      - New PO/AO to each section to make reading easier
+
+    - revision #3
+
+    - remove appendix in Ch1, move Repo & Pages link to bottom Appendix
+
+  - **Ch3 Template has been updates**
+
+    - **now includes primary and secondary data**
+
+# Overview of Week 06
+
+# Week 6 Topics and Assignments
+
+- Presenting Ch 2.7
+
+- data hangout series in syllabus
+
+- don't forget datacamp assignments
+
+- construct operationalization
+
+  - creating a search table - due 10/06
+
+- survey presentation 10/08
+
+- IRB application 10/15
+
+# CEP Presentation on CEP03 - Revision of Ch1 and lit Review of Ch2
+
+# CEP Group Meeting
